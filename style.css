@@ -1,0 +1,19 @@
+#navLinks{
+    background-color: deeppink;
+    color: lightsalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px 10px;
+    
+
+}
+.head1{
+    color:deeppink;
+}
+#PersonalInfo{
+    background-color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#Address{
+    background-color: antiquewhite;
+}
+
