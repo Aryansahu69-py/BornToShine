@@ -25,7 +25,11 @@ h1{
     background-size: cover;
 }
 #box2{
+    border: 100px black;
     height: 40%;
     width: 60%;
-    background: linear-gradient( to left , orange,White,Green);
+    
+    margin: 40px 5px 60px 50px;
+    padding: 20px 30px;
+    overflow: auto;
 }
