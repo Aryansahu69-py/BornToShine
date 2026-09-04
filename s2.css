@@ -54,12 +54,40 @@ nav button {
     display: flex;
 }
 .left{
-    height: 50%;
-    background-color: blue;
+    height: 80%;
+    
     width: 50%;
 }
+.left h1{
+    font-size: 60px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+.left p{
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+}
 .right{
-    background-color: brown;
-    height: 50%;
+    
+    height: 80%;
     width: 50%;
+}
+.button{
+    margin-top: 40px;
+    height: 45px;
+    width: 120px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+#button1{
+    background-color: rgb(153, 74, 227);
+    color: aliceblue;
+    border: 2px solid rgb(239, 174, 237);
+
+}
+#button2{
+    margin-left: 5px;
+    border: 2px solid black;
+
 }
